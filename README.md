@@ -1,1 +1,1 @@
-# Bakery-Project-
+# Bakery-Project- This is a website I built with HTML, CSS and JavaScript for a bakery to track customer orders and feedback. I built an admin dashboard and also connected it to a backend using Supabase 
